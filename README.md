@@ -1,1 +1,1 @@
-# Dune_Analytics_1
+# Variational Autoencoder for Generative AI
